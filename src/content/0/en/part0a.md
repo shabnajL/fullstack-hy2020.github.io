@@ -19,7 +19,7 @@ Participants are expected to have good programming skills, basic knowledge of we
 
 Previous knowledge of JavaScript or other course topics is not required.
 
-How much programming experience is needed? It is hard to say, but you should be pretty fluent with <i>your</i> language. This level of fluency takes usually at least 100-200 hours of practice to develop.
+How much programming experience is needed? It is hard to say, but you should be pretty fluent with <i>your</i> language. This fluency level usually takes at least 100-200 hours of practice to develop.
 
 ### Course material
 
@@ -33,11 +33,11 @@ The course material is based on incrementally expanding example applications, wh
 
 ### Taking the course
 
-The course contains fourteen parts, the first of which is numbered 0 for consistency with past iterations. One part corresponds loosely to one week (averaging 15-20 hours) of studying, but the speed of completing the course is flexible.
+The course contains fourteen parts, the first numbered 0 for consistency with past iterations. One part corresponds loosely to one week (averaging 15-20 hours) of studying, but the speed of completing the course is flexible.
 
 Proceeding from part <i>n</i> to part <i>n+1</i> is not sensible before enough know-how of the topics in part <i>n</i> has been achieved. In pedagogic terms, the course uses [Mastery Learning](https://en.wikipedia.org/wiki/Mastery_learning), and you are only intended to proceed to the next part after doing enough of the exercises of the previous part.
 
-In parts 1-4 you are expected to do <i>at least</i> all of the exercises that are not marked with an asterisk(*). Exercises marked with an asterisk count towards your final grade, but skipping them does not prevent you from doing the compulsory exercises in the next parts. Parts 5-13 do not have asterisk marked exercises since there is no similar dependency on previous parts.
+In parts 1-4 you are expected to do <i>at least</i> all of the exercises that are not marked with an asterisk(*). Exercises marked with an asterisk count towards your final grade, but skipping them does not prevent you from doing the compulsory exercises in the next parts. Parts 5-13 do not have asterisk-marked exercises since there is no similar dependency on previous parts.
 
 The speed of completing the course is flexible.
 
@@ -45,7 +45,7 @@ Exercise completion time statistics can be found via the [submission system](htt
 
 ### Course channel in Discord and Telegram
 
-You can discuss the course and related topics in our dedicated group on Discord <https://study.cs.helsinki.fi/discord/join/fullstack> and on Telegram: <https://t.me/fullstackcourse>. Discord has fullstack_general and part-specific (channel names with fullstack prefix) channels for course-related discussion. Note that Discord's <i>chat channel is not suitable for course-related discussions</i>. Please join the conversation!
+You can discuss the course and related topics in our dedicated group on Discord <https://study.cs.helsinki.fi/discord/join/fullstack> and on Telegram: <https://t.me/fullstackcourse>. Discord has fullstack_general and part-specific (channel names with full-stack prefix) channels for course-related discussion. Note that Discord's <i>chat channel is not suitable for course-related discussions</i>. Please join the conversation!
 
 ### How to get help in Discord/Telegram
 
@@ -57,13 +57,13 @@ it is quite likely that nobody will respond. The bug can be <i>anywhere</i>.
 
 A better question could be
 
-> <i> In the exercise 2.15 when I try to add a new person to the app, server responds to 403, despite the request looks ok to me.
+> <i> In exercise 2.15 when I try to add a new person to the app, the server responds to 403, despite the request looks ok to me.
 >
 > The code looks like this
 >
 > ```js
->   // the relevant part of code is pasted here
->   // code should contain several console.log statements for helping the debugging
+>   //The relevant part of the code is pasted here
+>   // code should contain several console.log statements to help the debugging
 > ```
 >
 > The following gets printed to the console
@@ -74,13 +74,13 @@ A better question could be
 >
 > The network tab looks like the following</i>
 >
-> [screen shot from the network console]
+> [screenshot from the network console]
 >
 > All the code can be found here (a link to GitHub)
 
 ### Parts and completion
 
-Full Stack studies consist of the core course and multiple extensions. You can complete the studies in the extent of 5 to 14 credits.
+Full-stack studies consist of the core course and multiple extensions. You can complete the studies in the extent of 5 to 14 credits.
 
 #### Parts 0-5 (core course) - Full Stack Web Development (5 cr, CSM141081)
 
@@ -194,7 +194,7 @@ How to study the course – instructions in a nutshell: other course parts
 
 ### Submitting exercises
 
-The exercises are submitted through GitHub and marking them as done on the "my submissions" tab of the [submission application](https://studies.cs.helsinki.fi/stats/courses/fullstackopen).
+The exercises are submitted through GitHub and marked as done on the "my submissions" tab of the [submission application](https://studies.cs.helsinki.fi/stats/courses/fullstackopen).
 
 If you are submitting exercises from different parts to the same repository, use an appropriate system for naming your directories. You can of course create a new repository for each part. If you are using a private repository, add <i>mluukkai</i> as a collaborator.
 
@@ -232,7 +232,7 @@ You will have 120 minutes to complete the exam. If all goes well, you should see
 
 ![final exam confirmation](../../images/0/enroll4.png)
 
-If you fail, you must wait for one week for trying the exam again.
+If you fail, you must wait for one week to try the exam again.
 
 If you passed the exam, and you are not going to complete more exercises, you can go back to the "my submissions" tab and ask for the credits:
 
@@ -258,7 +258,7 @@ If you want to receive University of Helsinki credits, save your <b>University o
 
 If you are not a student at the University of Helsinki, you can get a student number by registering for the course through [Open University](/en/part0/general_info#the-course-exam), see [this](/en/part0/general_info#where-do-i-get-my-university-of-helsinki-student-number) for more information.
 
-You will receive your credits after you have submitted enough exercises for a passing grade, passed the exam and then letting us know through the exercise submission system that you have completed the course:
+You will receive your credits after you have submitted enough exercises for a passing grade, passed the exam, and then let us know through the exercise submission system that you have completed the course:
 
 ![ask for course completion credits](../../images/0/enroll5a.png)
 
@@ -274,7 +274,7 @@ When pressed twice you should see the following text
 
 **Please note** that to get university credits you need a registration for each completed part. Please see [more information about registration](/en/part0/general_info#parts-and-completion).
 
-You can view your grade in University of Helsinki Sisu and [Opintopolku](https://opintopolku.fi/oma-opintopolku/) approximately four weeks after notifying us.
+You can view your grade in the University of Helsinki Sisu and [Opintopolku](https://opintopolku.fi/oma-opintopolku/) approximately four weeks after notifying us.
 
 When the registration is done, the following text appears in the submission system
 
@@ -302,11 +302,11 @@ After course enrollment, you will receive a confirmation email to an email addre
 
 #### C) Contact Student Services
 
-If you have trouble finding your student number through the means listed above, you can send an email to University of Helsinki Student Services. <i>**Make sure you have enrolled in the course through the Open University before sending the email!**</i>
+If you have trouble finding your student number through the means listed above, you can send an email to the University of Helsinki Student Services. <i>**Make sure you have enrolled in the course through the Open University before sending the email!**</i>
 
 In your email, include the following information
 
-- name of the course you have enrolled in,
+- the name of the course you have enrolled in,
 - your name, and
 - your date of birth.
 
@@ -370,7 +370,7 @@ See [more information on the project](https://github.com/fullstack-hy2020/misc/b
 
 Our collaborators, [Houston Inc.](https://houston-inc.com/), [Terveystalo](https://www.terveystalo.com/en/) and [Smartly.io](https://www.smartly.io/), have given the <i>promise of a job interview</i> for everyone who completes the course and the project work with maximum credits (14 + 10).
 
-This means that the student can, if they so choose to, sign up for a job interview with a collaborator who has given the promise. The teacher of the course, Matti Luukkainen, will send instructions to the student after the courses have been completed with maximum credits.
+This means that the student can if they so choose to, sign up for a job interview with a collaborator who has given the promise. The teacher of the course, Matti Luukkainen, will send instructions to the student after the courses have been completed with maximum credits.
 
 You need to be a resident of Finland to participate in these interviews.
 
